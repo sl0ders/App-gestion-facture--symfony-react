@@ -1,4 +1,4 @@
-export const API_URL = "https://localhost:8000/api/"
+const API_URL = process.env.API_URL
 
 export const CUSTOMER_API = API_URL + "customers"
 export const INVOICES_API = API_URL + "invoices"
