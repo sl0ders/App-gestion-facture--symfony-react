@@ -1,4 +1,11 @@
 {
+    "name": "myapp",
+    "version": "1.0.0",
+    "lockfileVersion": 2,
+    "requires": true,
+    "engines": {
+        "node": "14.16.1"
+    },
     "devDependencies": {
         "@babel/preset-react": "^7.13.13",
         "@symfony/stimulus-bridge": "^2.0.0",
